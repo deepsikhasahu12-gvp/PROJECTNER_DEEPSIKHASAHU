@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Guwahati - Shillong",
+    "start": "Guwahati",
+    "end": "Shillong",
+    "status": "high-risk",
+    "risk": 72,
+    "rainfall": 78,
+    "road_condition": 65,
+    "historical_risk": 72,
+    "road_status": "Poor",
+    "eta": "4h 20m",
+    "distance": "99 km"
+  },
+  {
+    "id": 2,
+    "name": "Guwahati - Nongpoh",
+    "start": "Guwahati",
+    "end": "Nongpoh",
+    "status": "open",
+    "risk": 18,
+    "rainfall": 32,
+    "road_condition": 20,
+    "historical_risk": 18,
+    "road_status": "Good",
+    "eta": "2h 10m",
+    "distance": "55 km"
+  },
+  {
+    "id": 3,
+    "name": "NH-10 Sikkim Corridor",
+    "start": "Siliguri",
+    "end": "Gangtok",
+    "status": "blocked",
+    "risk": 96,
+    "rainfall": 92,
+    "road_condition": 94,
+    "historical_risk": 96,
+    "road_status": "Severely Damaged",
+    "eta": "Unavailable",
+    "distance": "115 km"
+  },
+  {
+    "id": 4,
+    "name": "Guwahati - Tezpur",
+    "start": "Guwahati",
+    "end": "Tezpur",
+    "status": "open",
+    "risk": 21,
+    "rainfall": 35,
+    "road_condition": 24,
+    "historical_risk": 20,
+    "road_status": "Good",
+    "eta": "3h 15m",
+    "distance": "180 km"
+  }
+]
